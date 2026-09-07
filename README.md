@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="proto-pollute" width="800">
+</div>
+
 # proto-pollute
 
 > Red team security tool — authorized use only.
