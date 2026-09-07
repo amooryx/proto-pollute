@@ -1,8 +1,8 @@
-﻿# proto-pollute
+# proto-pollute
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python proto_pollute.py --help
 ```
 
